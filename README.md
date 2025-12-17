@@ -1,7 +1,6 @@
 # 🧩 Python Mini Projects
 
 A collection of small and useful **Python mini projects** built to strengthen programming fundamentals, explore automation, and practice working with APIs, data, and files.  
-This repo is perfect for beginners and intermediate developers looking for quick, practical coding examples.
 
 ---
 
